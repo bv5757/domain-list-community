@@ -1,0 +1,7 @@
+domain:priconne-redive.us@us
+domain:assets-priconne-redive-us.akamaized.net@us
+domain:cognito-identity.ap-northeast-1.amazonaws.com@tw
+domain:api4-pc.so-net.tw@tw
+domain:omotenashi.cygames.jp@jp
+domain:api-priconne-redive.cygames.jp@jp
+domain:prd-priconne-redive.akamaized.net@jp
